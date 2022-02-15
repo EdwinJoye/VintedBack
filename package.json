@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "cloudinary": "^1.28.1",
+    "express": "^4.17.2",
+    "express-formidable": "^1.2.0",
+    "mongoose": "^6.1.7"
+  },
+  "name": "vintedconnection",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
